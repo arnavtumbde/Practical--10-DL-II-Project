@@ -3,7 +3,7 @@
 
 # Probabilistic Generative Modeling with Variational Autoencoders and Normalizing Flows
 
-## Project Title
+## Arnav Tumbde Batch : A2 | Roll no : 30 
 
 **Probabilistic Generative Modeling using TensorFlow Probability**
 
